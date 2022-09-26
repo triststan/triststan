@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Learing Codding
-- 🌱 I’m currently learning ... Discord.JS C CPP Java
+- 🌱 I’m currently learning ... Discord.JS
 - 👯 I’m looking to collaborate on ...  Discord Bots
 - 🤔 I’m looking for help with ...  Any tips 
 - 💬 Ask me about ... Anything :)
